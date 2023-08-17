@@ -1,0 +1,5 @@
+{{#user}
+Name: Mudit
+Skills: HTML, CSS, JS, Next.js , Express.js , React.js
+Email: muditert34@gmail.com
+{{/user}}
